@@ -1,4 +1,4 @@
-# Carsales Cars Listings Dataset Sample
+# Carsales Cars Listings 데이터셋 샘플
 
 <h2>1,000개 레코드로 구성된 샘플 데이터셋</h2>
 
